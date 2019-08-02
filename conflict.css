@@ -1,0 +1,17 @@
+div.div1 {
+  display: flex;
+  justify-content: center;
+  color: coral;
+}
+
+div.div2 {
+  display: flex;
+  justify-content: center;
+  color: pink;
+}
+
+div.div3 {
+  display: flex;
+  justify-content: center;
+  color: yellowgreen;
+}
